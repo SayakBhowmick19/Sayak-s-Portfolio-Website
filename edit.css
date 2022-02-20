@@ -1,0 +1,47 @@
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            
+            img {
+                border-radius: 50%;
+            }
+            
+            body,
+            .first,
+            .second,
+            .third {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                color: blue;
+            }
+            
+            center b1 {
+                font-size: 35px;
+            }
+            
+            center b2 {
+                font-size: 30px;
+            }
+            
+            .first {
+                background-color: antiquewhite;
+            }
+            
+            .second {
+                background-color: pink;
+            }
+            
+            .third {
+                color: black;
+                background-image: url("./images/headphone.jpg");
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat;
+                width: 1349px;
+                height: 600px;
+                font-size: 25px;
+            }
+            
+            .fourth {
+                background-color: black;
+            }
